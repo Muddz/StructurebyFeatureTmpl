@@ -6,9 +6,9 @@
 
 ## Why I recommend this structure
 
-I strongly recommend the structure-by-feature approach by default for Java/Spring Boot microservice projects over the structure-by-functionality. The biggest reason is due to ease of navigation and readability, an often forgotten art in the fast paced world of software development nowadays. The sacrifice of readibility for "just getting it out" will later cost you a lot of valuable time when you suddenly need to refactor a project to scale it big or when you need to find and fix a critical bug or handover the project over to colleagues who never worked on it. 
+I strongly recommend the structure-by-feature approach by default for Java/Spring Boot microservice projects over the structure-by-functionality. The biggest reason is due to ease of navigation and readability, an often forgotten art in the fast paced world of software development nowadays. The sacrifice of readibility for "just getting it out" will later cost you a lot of valuable time when you suddenly need to refactor a huge project to make it scalable or when you need to fix a critical bug or handover the project to colleagues who never worked on it before. 
 
-The reasons for the recommendation:
+Some of reasons for the recommendation:
 
 - Its super easy to understand a project and what it does with this structure.
 - All files related to a particular feature are located within the same package.
