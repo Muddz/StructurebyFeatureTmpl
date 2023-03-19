@@ -7,7 +7,7 @@ My recommendation for using the structure-by-feature in microservices, is based 
 
 ## Why I recommend this structure
 
-Mainly due to how well it scales up and still makes your project readable and understandable of what it does and contains.
+Due to how well it scales up and still makes your project readable and understandable of what it does and contains.
 I recommend the structure-by-feature approach by default for microservices over the structure-by-functionality, unless a project doesn't fit this structure of course. 
 
 Some of reasons for the recommendation:
