@@ -1,4 +1,4 @@
-# Spring Boot template by features structure
+# Java/microservice template by features structure
 
 
 ## About
